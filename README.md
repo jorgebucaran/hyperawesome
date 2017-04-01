@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tobiasbueschel/awesome-hyperapp/">
-    <img alt="Awesome Hyperapp" src="logo.png" width="700">
+    <img alt="Awesome Hyperapp" src="banner.png" width="700">
   </a>
 </p>
 
@@ -27,7 +27,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-hyperapp/blo
 ## Contents
 - [Web Apps](#web-apps--boilerplates)
 - [Resources & Others](#resources--others)
-    
+
 ## Web Apps & Boilerplates
 
 - [hyperapp-wiki](https://github.com/lukejacksonn/hyperapp-wiki) - Example of how HyperApp could be used to serve its on wiki with gh-pages.
@@ -43,4 +43,3 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-hyperapp/blo
 - [Reddit](https://www.reddit.com/r/HyperApp/) - Official HyperApp Subreddit.
 - [Twitter](https://twitter.com/hyperappjs) - Official HyperApp Twitter account.
 - [Wiki](https://github.com/hyperapp/hyperapp/wiki) - Official HyperApp documentation.
-
