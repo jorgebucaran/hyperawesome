@@ -36,6 +36,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-hyperapp/blo
 - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready HyperApp application.
 - [hyperapp-flow-skeleton](https://github.com/just-nobody/hyperapp-flow-skeleton) - A simple skeleton for getting started with HyperApp, webpack, and flowtype.
 - [hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple crud todo-app with HyperApp.
+- [hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - HyperApp with RxJS & service worker.
 - [hypernews](https://github.com/traducer/hypernews) - Hackernews clone with HyperApp.
 
 ## Resources & Others
