@@ -1,32 +1,10 @@
-<p align="center">
-  <a href="https://github.com/tobiasbueschel/awesome-hyperapp/">
-    <img alt="Awesome Hyperapp" src="banner.png" width="700">
-  </a>
-</p>
-
-<div align="center">
-
-<p align="center">
-  A curated list of awesome web apps built with <a href="https://github.com/hyperapp/hyperapp">HyperApp</a> & more.
-</p>
-
-<p align="center">
-  <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
-  <a href="https://github.com/tobiasbueschel/awesome-hyperapp/pulls"><img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
-  <a href="https://gitter.im/tobiasbueschel/awesome-hyperapp"><img alt="Chat on Gitter" src="https://badges.gitter.im/tobiasbueschel/awesome-hyperapp.svg"></a>
-</p>
-
-<p>
-<i>Looking for contributors. Submit a pull request if you have something to add :) </i><br>  
-Please check the <a href="https://github.com/tobiasbueschel/awesome-hyperapp/blob/master/contributing.md">contribution guidelines</a> for info on formatting and writing pull requests.
-</p>
-
-</div>
-
+# Awesome HyperApp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome projects, plugins and other cool nuggets for [HyperApp](https://github.com/hyperapp/hyperapp).
 
 ## Contents
 - [Web Apps](#web-apps--boilerplates)
 - [Resources & Others](#resources--others)
+- [Contributing](#contributing)
 
 ## Web Apps & Boilerplates
 
@@ -44,8 +22,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-hyperapp/blo
 - [Slack](https://hyperappjs.herokuapp.com/) - Official HyperApp community on Slack.
 - [Reddit](https://www.reddit.com/r/HyperApp/) - Official HyperApp Subreddit.
 - [Twitter](https://twitter.com/hyperappjs) - Official HyperApp Twitter account.
-- [Wiki](https://github.com/hyperapp/hyperapp/wiki) - Official HyperApp documentation.
+- [Documentation](https://github.com/hyperapp/hyperapp/tree/master/docs) - Official HyperApp documentation.
 
-<br/>
+## Contributing
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+To contribute, fork this repository, add your amazing nugget and send us a PR. For more information see [CONTRIBUTING](/CONTRIBUTING.md).
