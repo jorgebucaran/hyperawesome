@@ -1,5 +1,6 @@
 # Awesome HyperApp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome projects, plugins and other cool nuggets for [HyperApp](https://github.com/hyperapp/hyperapp).
+
+A curated list of awesome apps, plugins and other projects for [HyperApp](https://github.com/hyperapp/hyperapp).
 
 ## Contents
 - [Web Apps](#web-apps--boilerplates)
@@ -26,4 +27,4 @@ A curated list of awesome projects, plugins and other cool nuggets for [HyperApp
 
 ## Contributing
 
-To contribute, fork this repository, add your amazing nugget and send us a PR. For more information see [CONTRIBUTING](/CONTRIBUTING.md).
+To contribute, fork this repository, add your amazing entry and send us a PR. For more information see [CONTRIBUTING](/CONTRIBUTING.md).
