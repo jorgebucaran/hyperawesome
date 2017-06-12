@@ -3,11 +3,11 @@
 A curated list of awesome projects built with [HyperApp](https://github.com/hyperapp/hyperapp) and more.
 
 ## Contents
-- [Apps](#web-apps--boilerplates)
-- [Resources & Others](#resources--others)
+- [Apps and Boilerplates](#apps-and-boilerplates)
+- [Resources and Others](#resources-and-others)
 - [Contributing](#contributing)
 
-## Web Apps & Boilerplates
+## Apps and Boilerplates
 
 - [hyperapp-wiki](https://github.com/lukejacksonn/hyperapp-wiki) - Example of how HyperApp could be used to serve its on wiki with gh-pages.
 - [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple HyperApp webpack boilerplate counter app with airbnb eslint and jsx.
@@ -19,7 +19,7 @@ A curated list of awesome projects built with [HyperApp](https://github.com/hype
 - [hypernews](https://github.com/traducer/hypernews) - Hackernews clone with HyperApp.
 - [deployable](https://github.com/lukejacksonn/deployable) - A ready-to-deploy static web app template built with HyperApp.
 
-## Resources & Others
+## Resources and Others
 - [Slack](https://hyperappjs.herokuapp.com/) - Official HyperApp community on Slack.
 - [Reddit](https://www.reddit.com/r/HyperApp/) - Official HyperApp Subreddit.
 - [Twitter](https://twitter.com/hyperappjs) - Official HyperApp Twitter account.
