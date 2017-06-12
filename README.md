@@ -38,6 +38,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-hyperapp/blo
 - [hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple crud todo-app with HyperApp.
 - [hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - HyperApp with RxJS & service worker.
 - [hypernews](https://github.com/traducer/hypernews) - Hackernews clone with HyperApp.
+- [deployable](https://github.com/lukejacksonn/deployable) - A ready-to-deploy static web app template built with HyperApp.
 
 ## Resources & Others
 - [Slack](https://hyperappjs.herokuapp.com/) - Official HyperApp community on Slack.
