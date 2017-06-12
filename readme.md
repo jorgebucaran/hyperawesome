@@ -1,12 +1,7 @@
-[<img src="https://user-images.githubusercontent.com/56996/27039888-4b67dd26-4fca-11e7-88da-9c925c3e710e.png" align="right" width="100">](https://preactjs.com)
-
-# Awesome HyperApp
-
-[![Slack](https://hyperappjs.herokuapp.com/badge.svg)](https://hyperappjs.herokuapp.com "Join us")
-
+# Awesome HyperApp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome projects, plugins and other cool nuggets for [HyperApp](https://github.com/hyperapp/hyperapp).
 
-# Contents
+## Contents
 - [Web Apps](#web-apps--boilerplates)
 - [Resources & Others](#resources--others)
 - [Contributing](#contributing)
