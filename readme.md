@@ -45,3 +45,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-hyperapp/blo
 - [Reddit](https://www.reddit.com/r/HyperApp/) - Official HyperApp Subreddit.
 - [Twitter](https://twitter.com/hyperappjs) - Official HyperApp Twitter account.
 - [Wiki](https://github.com/hyperapp/hyperapp/wiki) - Official HyperApp documentation.
+
+<br/>
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
