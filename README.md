@@ -11,7 +11,7 @@ A curated list of awesome projects built with [HyperApp](https://github.com/hype
 
 - [hyperapp-wiki](https://github.com/lukejacksonn/hyperapp-wiki) - Example of how HyperApp could be used to serve its on wiki with gh-pages.
 - [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple HyperApp webpack boilerplate counter app with airbnb eslint and jsx.
-- [hyperapp-two](https://github.com/lukejacksonn/hyperapp-two) - A multi-page and multi-component boilerplate HyperApp project.
+- [hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - A minimalist, progressive web app compliant template for HyperApp projects.
 - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready HyperApp application.
 - [hyperapp-flow-skeleton](https://github.com/just-nobody/hyperapp-flow-skeleton) - A simple skeleton for getting started with HyperApp, webpack, and flowtype.
 - [hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple crud todo-app with HyperApp.
