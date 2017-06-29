@@ -12,12 +12,12 @@ A curated list of awesome projects built with [HyperApp](https://github.com/hype
 - [deployable](https://github.com/lukejacksonn/deployable) - A ready-to-deploy static web app template built with HyperApp.
 - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready HyperApp application.
 - [hyperapp-flow-skeleton](https://github.com/just-nobody/hyperapp-flow-skeleton) - A simple skeleton for getting started with HyperApp, webpack, and flowtype.
-- [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple HyperApp webpack boilerplate counter app with airbnb eslint and jsx.
+- [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple HyperApp webpack boilerplate counter app with Airbnb ESlint and JSX.
 - [hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - A minimalist, progressive web app compliant template for HyperApp projects.
 - [hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - HyperApp with RxJS & service worker.
-- [hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple crud todo-app with HyperApp.
-- [hyperapp-wiki](https://github.com/lukejacksonn/hyperapp-wiki) - Example of how HyperApp could be used to serve its on wiki with gh-pages.
-- [hypernews](https://github.com/traducer/hypernews) - Hackernews clone with HyperApp.
+- [hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app with HyperApp.
+- [hyperapp-wiki](https://github.com/lukejacksonn/hyperapp-wiki) - Example of how HyperApp could be used to serve its own wiki with gh-pages.
+- [hypernews](https://github.com/traducer/hypernews) - Hacker News clone with HyperApp.
 
 ## Resources and Others
 - [Documentation](https://github.com/hyperapp/hyperapp/tree/master/docs) - Official HyperApp documentation.
