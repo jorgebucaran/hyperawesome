@@ -9,6 +9,7 @@ A curated list of awesome projects built with [HyperApp](https://github.com/hype
 
 ## Apps and Boilerplates
 
+- [happy](https://github.com/zaceno/happy) - Happiness index calculator for teams, built with HyperApp.
 - [hyperapp-wiki](https://github.com/lukejacksonn/hyperapp-wiki) - Example of how HyperApp could be used to serve its on wiki with gh-pages.
 - [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple HyperApp webpack boilerplate counter app with airbnb eslint and jsx.
 - [hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - A minimalist, progressive web app compliant template for HyperApp projects.
