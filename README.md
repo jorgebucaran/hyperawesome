@@ -10,6 +10,7 @@ A curated list of awesome projects built with [HyperApp](https://github.com/hype
 ## Apps and Boilerplates
 
 - [deployable](https://github.com/lukejacksonn/deployable) - A ready-to-deploy static web app template built with HyperApp.
+- [happy](https://github.com/zaceno/happy) - Happiness index calculator for teams, built with HyperApp.
 - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready HyperApp application.
 - [hyperapp-flow-skeleton](https://github.com/just-nobody/hyperapp-flow-skeleton) - A simple skeleton for getting started with HyperApp, webpack, and flowtype.
 - [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple HyperApp webpack boilerplate counter app with Airbnb ESlint and JSX.
