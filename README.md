@@ -13,6 +13,7 @@ A curated list of awesome projects built with [HyperApp](https://github.com/hype
 - [happy](https://github.com/zaceno/happy) - Happiness index calculator for teams, built with HyperApp.
 - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready HyperApp application.
 - [hyperapp-flow-skeleton](https://github.com/just-nobody/hyperapp-flow-skeleton) - A simple skeleton for getting started with HyperApp, webpack, and flowtype.
+- [hyperapp-game-of-life](https://github.com/applefreak/hyperapp-game-of-life/) - An implementation of Conway's Game of Life in HyperApp.
 - [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple HyperApp webpack boilerplate counter app with Airbnb ESlint and JSX.
 - [hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - A minimalist, progressive web app compliant template for HyperApp projects.
 - [hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - HyperApp with RxJS & service worker.
