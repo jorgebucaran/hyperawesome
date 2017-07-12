@@ -4,7 +4,7 @@ A curated list of awesome projects built with [HyperApp](https://github.com/hype
 
 ## Contents
 - [Apps and Boilerplates](#apps-and-boilerplates)
-- [Add-ons](#add-ons)
+- [Libraries and Mixins](#libraries-and-mixins)
 - [Resources and Others](#resources-and-others)
 - [Contributing](#contributing)
 
@@ -22,7 +22,7 @@ A curated list of awesome projects built with [HyperApp](https://github.com/hype
 - [hyperapp-wiki](https://github.com/lukejacksonn/hyperapp-wiki) - Example of how HyperApp could be used to serve its own wiki with gh-pages.
 - [hypernews](https://github.com/traducer/hypernews) - Hacker News clone with HyperApp.
 
-## Add-ons
+## Libraries and Mixins
 - [hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your HyperaApp-apps
 
 ## Resources and Others
