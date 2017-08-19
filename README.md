@@ -23,7 +23,7 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 - [hypernews](https://github.com/traducer/hypernews) - Hacker News clone with Hyperapp.
 
 ## Libraries and Mixins
-- [hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your HyperaApp applications.
+- [hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications.
 
 ## Resources and Others
 - [Documentation](https://github.com/hyperapp/hyperapp/tree/master/docs) - Official Hyperapp documentation.
