@@ -23,6 +23,18 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 - [hypernews](https://github.com/traducer/hypernews) - Hacker News clone with Hyperapp.
 
 ## Libraries and Mixins
+- [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
+- [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp.
+- [hyperapp-deepupdate](https://github.com/NoobLad/hyperapp-deepupdate) - A utility for updating deeply nested state.
+- [hyperapp-dot-notation-reducer](https://github.com/alber70g/hyperapp-dot-notation-reducer) - Allows actions to return an object with a path as a path as a property.
+- [hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase.
+- [hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state on load in development.
+- [hyperapp-hmr](https://github.com/scrapjs/hyperapp-hmr) - Hot module replacement for Hyperapp independent of the build process.
+- [hyperapp-html](https://github.com/swizz/hyperapp-html) - Html helpers for Hyperapp.
+- [hyperapp-partial](https://github.com/zaceno/hyperapp-partial) - Helps structure your code into related state properties, actions and events inside a namespace.
+- [hyperapp-persist](https://github.com/jamen/hyperapp-persist) - Store the state of Hyperapp in localStorage.
+- [hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp.
+- [hyperapp-server](https://github.com/hyperapp/server) - Render Hyperapp statically from the server.
 - [hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications.
 
 ## Resources and Others
