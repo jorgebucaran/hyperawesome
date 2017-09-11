@@ -14,7 +14,7 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 - [deployable](https://github.com/lukejacksonn/deployable) - A ready-to-deploy static web app template built with Hyperapp.
 - [happy](https://github.com/zaceno/happy) - Happiness index calculator for teams, built with Hyperapp.
 - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
-- [hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - A minimal electron app starter with hyperapp, livereload and redux devtools
+- [hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - A minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
 - [hyperapp-flow-skeleton](https://github.com/just-nobody/hyperapp-flow-skeleton) - A simple skeleton for getting started with Hyperapp, webpack, and flowtype.
 - [hyperapp-game-of-life](https://github.com/applefreak/hyperapp-game-of-life/) - An implementation of Conway's Game of Life in Hyperapp.
 - [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX.
@@ -30,7 +30,7 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 - [hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase.
 - [hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state on load in development.
 - [hyperapp-hmr](https://github.com/scrapjs/hyperapp-hmr) - Hot module replacement for Hyperapp independent of the build process.
-- [hyperapp-html](https://github.com/swizz/hyperapp-html) - Html helpers for Hyperapp.
+- [hyperapp-html](https://github.com/swizz/hyperapp-html) - HTML helpers for Hyperapp.
 - [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
 - [hyperapp-partial](https://github.com/zaceno/hyperapp-partial) - Helps structure your code into related state properties, actions and events inside a namespace.
 - [hyperapp-persist](https://github.com/jamen/hyperapp-persist) - Store the state of Hyperapp in localStorage.
@@ -44,7 +44,7 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 - [Reddit](https://www.reddit.com/r/hyperapp/) - Official Hyperapp Subreddit.
 - [Slack](https://hyperappjs.herokuapp.com/) - Official Hyperapp community on Slack.
 - [Twitter](https://twitter.com/hyperappjs) - Official Hyperapp Twitter account.
-- [Codepen](https://codepen.io/hyperapp/) - Official Hyperapp Codepen account.
+- [CodePen](https://codepen.io/hyperapp/) - Official Hyperapp Codepen account.
 
 ## Other Resources
 - [How Hyperapp Works](https://gist.github.com/jbucaran/8dc33b7947f3193eb2ea3d5700e27036)
