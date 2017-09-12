@@ -25,7 +25,7 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 
 ## Libraries and Mixins
 - [hyperapp-deepupdate](https://github.com/NoobLad/hyperapp-deepupdate) - A utility for updating deeply nested state.
-- [hyperapp-dot-notation-reducer](https://github.com/alber70g/hyperapp-dot-notation-reducer) - Allows actions to return an object with a path as a path as a property.
+- [hyperapp-dot-notation-reducer](https://github.com/alber70g/hyperapp-dot-notation-reducer) - Allows actions to return an object with a path as a property in order to edit deeply nested state.
 - [hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase.
 - [hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state on load in development.
 - [hyperapp-hmr](https://github.com/scrapjs/hyperapp-hmr) - Hot module replacement for Hyperapp independent of the build process.
