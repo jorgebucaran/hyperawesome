@@ -37,6 +37,7 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 - [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp.
 - [hyperapp-server](https://github.com/hyperapp/server) - Render Hyperapp statically from the server.
 - [hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications.
+- [picostyle](https://github.com/picostyle/picostyle) - A 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
 
 ## Official Resources and Community
 - [Documentation](https://github.com/hyperapp/hyperapp/tree/master/docs) - Official Hyperapp documentation.
