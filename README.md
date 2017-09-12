@@ -10,7 +10,6 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 - [Contributing](#contributing)
 
 ## Apps and Boilerplates
-
 - [deployable](https://github.com/lukejacksonn/deployable) - A ready-to-deploy static web app template built with Hyperapp.
 - [happy](https://github.com/zaceno/happy) - Happiness index calculator for teams, built with Hyperapp.
 - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
@@ -48,10 +47,8 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 
 ## Other Resources
 - [How Hyperapp Works](https://gist.github.com/jbucaran/8dc33b7947f3193eb2ea3d5700e27036)
-- [Pure Programming with Hyper App](https://glebbahmutov.com/blog/pure-programming-with-hyper-app/)
-- [HyperApp - Tiny Library for Frontend Applications - Interview with Jorge Bucaran](https://survivejs.com/blog/hyperapp-interview/)
-
+- [Blog post on Hyperapp by Gleb Bahmutov](https://glebbahmutov.com/blog/pure-programming-with-hyper-app/)
+- [Interview with Jorge Bucaran](https://survivejs.com/blog/hyperapp-interview/)
 
 ## Contributing
-
 To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
