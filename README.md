@@ -47,7 +47,7 @@ A curated list of awesome projects built with [Hyperapp](https://github.com/hype
 - [CodePen](https://codepen.io/hyperapp/) - Official Hyperapp Codepen account.
 
 ## Other Resources
-- [How Hyperapp Works](https://gist.github.com/jbucaran/8dc33b7947f3193eb2ea3d5700e27036)
+- [How Hyperapp Works](https://gist.github.com/JorgeBucaran/8dc33b7947f3193eb2ea3d5700e27036)
 - [Blog post on Hyperapp by Gleb Bahmutov](https://glebbahmutov.com/blog/pure-programming-with-hyper-app/)
 - [Interview with Jorge Bucaran](https://survivejs.com/blog/hyperapp-interview/)
 
