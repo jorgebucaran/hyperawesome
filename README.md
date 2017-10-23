@@ -34,7 +34,7 @@
 - [hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase.
 - [hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state on load in development.
 - [hyperapp-hmr](https://github.com/scrapjs/hyperapp-hmr) - Hot module replacement for Hyperapp independent of the build process.
-- [hyperapp-html](https://github.com/swizz/hyperapp-html) - HTML helpers for Hyperapp.
+- [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp.
 - [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
 - [hyperapp-module-views](https://github.com/zaceno/hyperapp-module-views) - Lets your modules provide components bound to their state and actions.
 - [hyperapp-persist](https://github.com/jamen/hyperapp-persist) - Store the state of Hyperapp in localStorage.
