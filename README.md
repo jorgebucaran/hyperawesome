@@ -46,11 +46,11 @@
 
 ## Official Resources and Community
 
-- [Documentation](https://github.com/hyperapp/hyperapp/tree/master/docs) - Official Hyperapp documentation.
-- [Reddit](https://www.reddit.com/r/hyperapp/) - Official Hyperapp Subreddit.
-- [Slack](https://hyperappjs.herokuapp.com/) - Official Hyperapp community on Slack.
-- [Twitter](https://twitter.com/hyperappjs) - Official Hyperapp Twitter account.
-- [CodePen](https://codepen.io/hyperapp/) - Official Hyperapp Codepen account.
+- [Documentation](https://github.com/hyperapp/hyperapp/tree/master/docs) - Official Documentation.
+- [Reddit](https://www.reddit.com/r/hyperapp/) - Official Subreddit.
+- [Slack](https://hyperappjs.herokuapp.com/) - Official Slack.
+- [Twitter](https://twitter.com/hyperappjs) - Official Twitter Account.
+- [CodePen](https://codepen.io/hyperapp/) - Official Codepen Account.
 
 ## Other Resources
 
