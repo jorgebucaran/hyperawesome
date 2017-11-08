@@ -27,7 +27,7 @@
 - [hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app with Hyperapp.
 - [hyperapp-wiki](https://github.com/lukejacksonn/hyperapp-wiki) - Example of how Hyperapp could be used to serve its own wiki with gh-pages.
 - [hypernews](https://github.com/traducer/hypernews) - Hacker News clone with Hyperapp.
-- [linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions to share links socialize in realtime
+- [linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.
 
 ## Utilities
 - [hyperapp-dot-notation-reducer](https://github.com/alber70g/hyperapp-dot-notation-reducer) - Allows actions to return an object with a path as a property in order to edit deeply nested state.
