@@ -23,6 +23,7 @@
 - [hyperapp-game-of-life](https://github.com/applefreak/hyperapp-game-of-life/) - Implementation of Conway's Game of Life in Hyperapp.
 - [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX.
 - [hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects.
+- [hyperapp-redux-todo](https://github.com/venecy/todo-apps) - Simple todo example with hyperapp and redux.
 - [hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker.
 - [hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app with Hyperapp.
 - [hyperapp-wiki](https://github.com/lukejacksonn/hyperapp-wiki) - Example of how Hyperapp could be used to serve its own wiki with gh-pages.
