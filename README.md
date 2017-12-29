@@ -37,7 +37,7 @@
 - [hyperapp-hmr](https://github.com/scrapjs/hyperapp-hmr) - Hot module replacement for Hyperapp independent of the build process.
 - [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp.
 - [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
-- [hyperapp-module-views](https://github.com/zaceno/hyperapp-module-views) - Lets your modules provide components bound to their state and actions.
+- [hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components.
 - [hyperapp-persist](https://github.com/jamen/hyperapp-persist) - Store the state of Hyperapp in localStorage.
 - [hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp.
 - [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp.
