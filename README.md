@@ -33,7 +33,7 @@
 - [hyperapp-dot-notation-reducer](https://github.com/alber70g/hyperapp-dot-notation-reducer) - Allows actions to return an object with a path as a property in order to edit deeply nested state.
 - [hyperapp-events](https://github.com/zaceno/hyperapp-events) - Adds an event-bus to your app for dependency-free cross-module communcations.
 - [hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase.
-- [hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state on load in development.
+- [hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development.
 - [hyperapp-hmr](https://github.com/scrapjs/hyperapp-hmr) - Hot module replacement for Hyperapp independent of the build process.
 - [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp.
 - [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
