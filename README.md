@@ -20,6 +20,7 @@
 - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
 - [hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
 - [hyperapp-flow-skeleton](https://github.com/just-nobody/hyperapp-flow-skeleton) - Simple skeleton for getting started with Hyperapp, webpack, and flowtype.
+- [hyperapp-fusebox](https://github.com/osdevisnot/hyperapp-fusebox) - Starting Point for a [Hyperapp](https://hyperapp.js.org/) and [Picostyle](https://github.com/picostyle/picostyle) projects.
 - [hyperapp-game-of-life](https://github.com/applefreak/hyperapp-game-of-life/) - Implementation of Conway's Game of Life in Hyperapp.
 - [hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX.
 - [hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects.
