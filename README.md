@@ -9,6 +9,7 @@
 - [Apps and Boilerplates](#apps-and-boilerplates)
 - [Utilites](#utilities)
 - [Official Resources and Community](#official-resources-and-community)
+- [Testing](#testing)
 - [Other Resources](#other-resources)
 - [Contributing](#contributing)
 
@@ -52,6 +53,10 @@
 - [Slack](https://hyperappjs.herokuapp.com/) - Official Slack.
 - [Twitter](https://twitter.com/hyperappjs) - Official Twitter Account.
 - [CodePen](https://codepen.io/hyperapp/) - Official Codepen Account.
+
+## Testing
+
+- [cypress-hyperapp-unit-test](https://github.com/bahmutov/cypress-hyperapp-unit-test) - Small utility for unit testing Hyperapp components inside [Cypress end-to-end test runner](https://github.com/cypress-io/cypress).
 
 ## Other Resources
 
