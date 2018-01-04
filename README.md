@@ -16,7 +16,6 @@
 
 - [deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
 - [golazon.com](https://github.com/sobstel/golazon) - Football data mnmlist way. Built with Hyperapp and Hyperapp/Router.
-- [happy](https://github.com/zaceno/happy) - Happiness index calculator for teams, built with Hyperapp.
 - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
 - [hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
 - [hyperapp-flow-skeleton](https://github.com/just-nobody/hyperapp-flow-skeleton) - Simple skeleton for getting started with Hyperapp, webpack, and flowtype.
