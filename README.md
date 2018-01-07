@@ -39,6 +39,10 @@
 - [hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications.
 - [Picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
 
+## Testing
+
+- [hyperapp-unit-test](https://github.com/bahmutov/cypress-hyperapp-unit-test) - Small utility for unit testing Hyperapp components inside [Cypress end-to-end test runner](https://github.com/cypress-io/cypress).
+
 ## Official Resources and Community
 
 - [Documentation](https://github.com/hyperapp/hyperapp/tree/master/docs) - Official Documentation.
