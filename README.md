@@ -38,6 +38,7 @@
 - [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp.
 - [hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications.
 - [Picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
+- [hyperapp-moisturize](https://github.com/selfup/hyperapp-moisturize) - HOA for Dynamically upgrading Hyperapps (HMR/Dynamic Import/Whatever)
 
 ## Testing
 
