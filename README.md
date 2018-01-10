@@ -52,6 +52,10 @@
 - [Twitter](https://twitter.com/hyperappjs) - Official Twitter Account.
 - [CodePen](https://codepen.io/hyperapp/) - Official Codepen Account.
 
+## Examples
+
+- [alber70g/hyperapp-lazy-loading-example](https://github.com/Alber70g/hyperapp-lazy-loading-example) Lazy loading of a view component using dynamic [`import()`](https://github.com/tc39/proposal-dynamic-import) and [Fuse-Box](https://fuse-box.org/page/dynamic-import)
+
 ## Other Resources
 
 - [How Hyperapp Works](https://gist.github.com/JorgeBucaran/8dc33b7947f3193eb2ea3d5700e27036)
