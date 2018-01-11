@@ -1,6 +1,8 @@
 # <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f26da3a18aca72810559d0b94819c22b/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg> Awesome Hyperapp
 
-A curated list of awesome [Hyperapp](https://github.com/hyperapp/hyperapp) resources.
+> 1 KB JavaScript library for building web applications.
+
+A curated list of [Hyperapp](https://github.com/hyperapp/hyperapp) resources.
 
 <!-- TOC -->
 
@@ -9,11 +11,11 @@ A curated list of awesome [Hyperapp](https://github.com/hyperapp/hyperapp) resou
 * [Boilerplates](#boilerplates)
 * [Utilities](#utilities)
 * [Testing](#testing)
-* [Built with Hyperapp](#built-with-hyperapp)
 * [Other](#other)
-* [Contributing](#contributing)
 
 <!-- /TOC -->
+
+To contribute, fork this repository, add your amazing entry and send us a PR. See CONTRIBUTING for more information.
 
 ## Official Resources
 
@@ -55,22 +57,14 @@ A curated list of awesome [Hyperapp](https://github.com/hyperapp/hyperapp) resou
 * [zaceno/hyperapp-events](https://github.com/zaceno/hyperapp-events) - Adds an event-bus to your app for dependency-free cross-module communcations.
 * [lukejacksonn/hyperapp-firebase-auth](https://github.com/lukejacksonn/hyperapp-firebase-auth) - Drop in authentication for Hyperapp using Firebase.
 * [okwolf/hyperapp-freeze](https://github.com/okwolf/hyperapp-freeze) - Deep freezes the state in development.
+* [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
 
 ## Testing
 
 * [bahmutov/cypress-hyperapp-unit-test](https://github.com/bahmutov/cypress-hyperapp-unit-test) - Small utility for unit testing Hyperapp components inside [Cypress](https://github.com/cypress-io/cypress) end-to-end test runner.
 
-## Built with Hyperapp
+## Other
 
 * [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
 * [Golazon.com](https://github.com/sobstel/golazon) - Football data mnmlist way. Built with Hyperapp and Hyperapp/Router.
 * [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.
-
-## Other
-
-* [Picodom](https://github.com/picodom/picodom) - 1 KB VDOM builder and patch function.
-* [Picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
-
-## Contributing
-
-To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
