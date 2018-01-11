@@ -15,7 +15,7 @@ A curated list of [Hyperapp](https://github.com/hyperapp/hyperapp) resources.
 
 <!-- /TOC -->
 
-To contribute, fork this repository, add your amazing entry and send us a PR. See CONTRIBUTING for more information.
+To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
 
 ## Official Resources
 
