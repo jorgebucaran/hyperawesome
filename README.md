@@ -50,6 +50,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp.
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
 * [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp.
+* [frenzzy/hyperapp-render](https://github.com/frenzzy/hyperapp-render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support.
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp.
 * [zaceno/hyperapp-nestable](https://github.com/zaceno/hyperapp-nestable) - Use apps in apps like stateful components.
 * [zaceno/hyperapp-transitions](https://github.com/zaceno/hyperapp-transitions) - Helps you animate transitions in your Hyperapp applications.
