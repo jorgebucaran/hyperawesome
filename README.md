@@ -35,6 +35,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [Hyperapp の良さとは何か考えてみた - Qiita](https://qiita.com/ababup1192/items/0dd5c70bee5feaf5dea3) (Japanese)
 * [Pure programming with Hyperapp - Gleb Bahmutov](https://glebbahmutov.com/blog/pure-programming-with-hyper-app)
 * [Interview with Jorge Bucaran - SurviveJS](https://survivejs.com/blog/hyperapp-interview)
+* [Hypercraft - @zaceno](https://zaceno.github.io/hypercraft/)
 
 ## Boilerplates
 
