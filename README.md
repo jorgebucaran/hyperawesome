@@ -46,6 +46,11 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker.
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp.
 
+## Examples
+
+* [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
+* [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
+
 ## Utilities
 
 * [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp.
