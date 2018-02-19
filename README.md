@@ -1,4 +1,4 @@
-# <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f26da3a18aca72810559d0b94819c22b/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg> Awesome Hyperapp
+# <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg> Awesome Hyperapp
 
 > 1 KB JavaScript library for building web applications.
 
