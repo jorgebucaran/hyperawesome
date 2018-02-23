@@ -1,6 +1,6 @@
 # <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg> Awesome Hyperapp
 
-> 1 KB JavaScript library for building web applications.
+> 1 kB JavaScript library for building web applications.
 
 A curated list of [Hyperapp](https://github.com/hyperapp/hyperapp) resources.
 
@@ -28,7 +28,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Articles & Tutorials
 
-* [An Introduction to Hyperapp](https://gist.github.com/JorgeBucaran/e63a1c7976b63df11f53bfbc1a7f4607)
+* [An Introduction to Hyperapp](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
 * [How Hyperapp Works](https://gist.github.com/JorgeBucaran/8dc33b7947f3193eb2ea3d5700e27036)
 * [2018 年は Hyperapp の年だ - Qiita](https://qiita.com/JorgeBucaran/items/c48446babe0627e25ee6) (Japanese)
 * [新 Qiita で React をやめて Hyperapp を採用した背景 - Qiita](https://qiita.com/yuku_t/items/2839e57a1933507f36b4) (Japanase)
