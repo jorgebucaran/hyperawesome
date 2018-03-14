@@ -46,6 +46,8 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects.
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker.
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp.
+* [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL.
+
 
 ## Examples
 
