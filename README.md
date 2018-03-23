@@ -79,5 +79,4 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 ## Other
 
 * [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
-* [Golazon.com](https://github.com/sobstel/golazon) - Football data mnmlist way. Built with Hyperapp and Hyperapp/Router.
 * [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.
