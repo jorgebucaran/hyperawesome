@@ -37,6 +37,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [Interview with Jorge Bucaran - SurviveJS](https://survivejs.com/blog/hyperapp-interview)
 * [Hypercraft - A collection of Hyperapp techniques](https://zaceno.github.io/hypercraft/)
 * [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（Simplified Chinese, [Source](https://github.com/willin/hyperapp.js.cool)）
+* [Hyped about Hyperapp](https://slides.com/bahmutov/hyped) presentation slides, April 2018
 
 ## Boilerplates
 
