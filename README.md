@@ -73,6 +73,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp.
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output.
 * [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
+* [congwenma/hyperapp-multiselect](https://github.com/congwenma/hyperapp-multiselect) - A multi select dropdown component with in hyperapp.
 
 ## Testing
 
