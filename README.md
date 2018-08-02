@@ -37,7 +37,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [Interview with Jorge Bucaran - SurviveJS](https://survivejs.com/blog/hyperapp-interview)
 * [Hypercraft - A collection of Hyperapp techniques](https://zaceno.github.io/hypercraft/)
 * [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（Simplified Chinese, [Source](https://github.com/willin/hyperapp.js.cool)）
-* [Create a Snake clone with Hyperapp](https://dev.to/avalander/create-a-snake-clone-with-hyperapp-part-1-2ffn)
+* [Creating a Snake Clone with Hyperapp](https://dev.to/avalander/create-a-snake-clone-with-hyperapp-part-1-2ffn)
 
 ## Boilerplates
 
