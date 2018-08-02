@@ -53,6 +53,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Examples
 
+* [2 way data-binding](https://jsfiddle.net/2f9hupmz/) - Simple 2 way data-binding example to play with in JSFiddle.
 * [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions.
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
