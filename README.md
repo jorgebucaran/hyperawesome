@@ -49,7 +49,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp.
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL.
 * [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter.
-
+* [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms. 
 
 ## Examples
 
@@ -79,6 +79,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output.
 * [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
 * [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps
+* [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form)
 
 ## Testing
 
