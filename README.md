@@ -43,7 +43,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
-* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX.
+* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp boilerplate counter app using parcel with Airbnb ESlint and JSX.
 * [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects.
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker.
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp.
