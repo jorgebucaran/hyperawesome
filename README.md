@@ -19,7 +19,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Official Resources
 
-* [Homepage](https://hyperapp.js.org)
+* [Homepage](https://hyperapp.dev/)
 * [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp)
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
