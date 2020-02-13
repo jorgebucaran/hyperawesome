@@ -19,8 +19,8 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 ## Official Resources
 
-* [Homepage](https://hyperapp.js.org)
-* [Hyperapp GitHub](https://github.com/hyperapp/hyperapp/tree/master/docs)
+* [Homepage](https://hyperapp.dev/)
+* [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp)
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
@@ -37,23 +37,29 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [Interview with Jorge Bucaran - SurviveJS](https://survivejs.com/blog/hyperapp-interview)
 * [Hypercraft - A collection of Hyperapp techniques](https://zaceno.github.io/hypercraft/)
 * [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（Simplified Chinese, [Source](https://github.com/willin/hyperapp.js.cool)）
+* [Creating a Snake Clone with Hyperapp](https://dev.to/avalander/create-a-snake-clone-with-hyperapp-part-1-2ffn)
 
 ## Boilerplates
 
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
-* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp webpack boilerplate counter app with Airbnb ESlint and JSX.
+* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp boilerplate counter app using parcel with Airbnb ESlint and JSX.
 * [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects.
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - Hyperapp with RxJS & service worker.
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp.
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL.
-
+* [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter.
+* [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms. 
 
 ## Examples
 
 * [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions.
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - Simple markdown editor with `localStorage` (use of `dangerouslySetInnerHTML`).
+* [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching.
+* [Serafeim's Hyperapp Tutorial](https://github.com/spapas/hyperapp-tutorial) - A rather big application to be used as a real-world tutorial;  uses a Django/DRF API.
+* [Home Away From Home](https://homeawayfromhome.online) - A social network for meeting foreigners and a resource for people living abroad.
+
 
 ## Utilities
 
@@ -73,6 +79,9 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [davidjamesstone/hyperapp-customelements](https://github.com/davidjamesstone/hyperapp-customelements) - W3C Web Components Custom Elements for hyperapp.
 * [davidjamesstone/hyperviews](https://github.com/davidjamesstone/hyperviews) - Template language that produces `h` output.
 * [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
+* [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps
+* [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form)
+* [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript.
 * [congwenma/hyperapp-multiselect](https://github.com/congwenma/hyperapp-multiselect) - A multi select dropdown component with in hyperapp.
 
 ## Testing
