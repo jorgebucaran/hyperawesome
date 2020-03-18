@@ -59,6 +59,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - A typing practice app featuring passages from the Tao Te Ching.
 * [Serafeim's Hyperapp Tutorial](https://github.com/spapas/hyperapp-tutorial) - A rather big application to be used as a real-world tutorial;  uses a Django/DRF API.
 * [Home Away From Home](https://homeawayfromhome.online) - A social network for meeting foreigners and a resource for people living abroad.
+* [Repository Search](https://ricosmall.github.io/hyperapp-search) - A simple tool for searching Github repositories.
 
 
 ## Utilities
