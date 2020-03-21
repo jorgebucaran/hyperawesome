@@ -50,6 +50,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL.
 * [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter.
 * [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms. 
+* [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Parcel, CSS modules, solid config
 
 ## Examples
 
