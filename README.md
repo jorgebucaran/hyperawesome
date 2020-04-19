@@ -24,7 +24,6 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
-* [Hyperapp CodePen](https://codepen.io/hyperapp/)
 
 ## Articles & Tutorials
 
