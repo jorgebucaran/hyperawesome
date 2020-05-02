@@ -1,31 +1,50 @@
 # <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg> Awesome Hyperapp
 
-> 1 kB JavaScript library for building web applications.
+A curated list of [Hyperapp](https://hyperapp.dev) resources. 
 
-A curated list of [Hyperapp](https://github.com/hyperapp/hyperapp) resources.
+To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
 
 <!-- TOC -->
 
 * [Official Resources](#official-resources)
 * [Articles & Tutorials](#articles--tutorials)
-* [Boilerplates](#boilerplates)
+* [Examples](#examples)
 * [Utilities](#utilities)
-* [Testing](#testing)
-* [Other](#other)
+* [V1 list](#v1)
 
 <!-- /TOC -->
-
-To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
 
 ## Official Resources
 
 * [Homepage](https://hyperapp.dev/)
+* [Tutorial](https://hyperapp.dev/tutorial)
 * [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp)
 * [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
 
+
 ## Articles & Tutorials
+
+* [A Walk through Hyperapp 2](https://medium.com/hyperapp/a-walk-through-hyperapp-2-b1f642fca172)
+
+## Utilities
+
+* [hyperapp-router](https://github.com/mrozbarry/hyperapp-router) - A router for Hyperapp
+* [hyperapp-form](https://github.com/zaceno/hyperapp-form) - Eases the pain of validating & submitting forms
+
+## Examples
+
+* [RealWorld with Hyperapp](https://github.com/kwasniew/hyperapp2-real-world-example)
+* [7GUIs with Hyperapp](https://github.com/zaceno/sevenguis-hyperapp)
+
+---
+
+# V1
+
+These resources below only apply to to V1 of Hyperapp
+
+## Articles & Tutorials V1
 
 * [An Introduction to Hyperapp](https://www.sitepoint.com/hyperapp-1-kb-javascript-library/)
 * [How Hyperapp Works](https://gist.github.com/JorgeBucaran/8dc33b7947f3193eb2ea3d5700e27036)
@@ -38,7 +57,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（Simplified Chinese, [Source](https://github.com/willin/hyperapp.js.cool)）
 * [Creating a Snake Clone with Hyperapp](https://dev.to/avalander/create-a-snake-clone-with-hyperapp-part-1-2ffn)
 
-## Boilerplates
+## Boilerplates V1
 
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
@@ -51,7 +70,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms. 
 * [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Parcel, CSS modules, solid config
 
-## Examples
+## Examples V1
 
 * [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews) - A curated collection of common interview questions.
 * [Emoji Search](https://codepen.io/ismamz/pen/ppGMWM) - Simple app for searching emoji.
@@ -62,7 +81,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [Repository Search](https://ricosmall.github.io/hyperapp-search) - A simple tool for searching Github repositories.
 
 
-## Utilities
+## Utilities V1
 
 * [@hyperapp/html](https://github.com/hyperapp/html) - HTML helpers for Hyperapp.
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
@@ -84,11 +103,11 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form)
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript.
 
-## Testing
+## Testing V1
 
 * [bahmutov/cypress-hyperapp-unit-test](https://github.com/bahmutov/cypress-hyperapp-unit-test) - Small utility for unit testing Hyperapp components inside [Cypress](https://github.com/cypress-io/cypress) end-to-end test runner.
 
-## Other
+## Other V1
 
 * [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
 * [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.
