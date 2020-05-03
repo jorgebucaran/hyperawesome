@@ -27,7 +27,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 ## Articles & Tutorials
 
 * [A Walk through Hyperapp 2](https://medium.com/hyperapp/a-walk-through-hyperapp-2-b1f642fca172)
-* [Hyperapp V2 in Under 5 Minutes](https://medium.com/@NickDodson/hyperapp-v2-in-under-5-minutes-7e9fa49f7f5)
+* [Hyperapp in Under 5 Minutes](https://medium.com/@NickDodson/hyperapp-v2-in-under-5-minutes-7e9fa49f7f5)
 
 ## Utilities
 
