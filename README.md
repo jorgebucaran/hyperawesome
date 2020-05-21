@@ -118,6 +118,8 @@ These resources below only apply to V1 of Hyperapp
 * [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
 * [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.
 
+---
+
 # V2
 
 These resources below only apply to V2 of Hyperapp.
