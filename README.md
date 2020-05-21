@@ -3,7 +3,7 @@
 > I'm preparing a new Awesome List as I get ready to release V2. Please stand by! :wave:
 
 
-A curated list of [Hyperapp](https://hyperapp.dev) resources. 
+A curated list of [Hyperapp](https://hyperapp.dev) resources.
 
 To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
 
@@ -48,7 +48,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 # V1
 
-These resources below only apply to to V1 of Hyperapp
+These resources below only apply to V1 of Hyperapp
 
 ## Articles & Tutorials V1
 
@@ -73,7 +73,7 @@ These resources below only apply to to V1 of Hyperapp
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - Simple CRUD todo-app buit with Hyperapp.
 * [jdh2550/hyperapp-responsive-admin](https://github.com/jdh2550/hyperapp-responsive-admin) - Responsive app with simple login and GraphQL.
 * [joseluisq/hyperapp-starter](https://github.com/joseluisq/hyperapp-starter) - Minimal Hyperapp, TypeScript and Parcel starter.
-* [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms. 
+* [elisherer/hyperapp-less-boilerplate](https://github.com/elisherer/hyperapp-less-boilerplate) - Minimal webpack Hyperapp setup with LESS and hyperapp-forms.
 * [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Parcel, CSS modules, solid config
 
 ## Examples V1
@@ -117,3 +117,11 @@ These resources below only apply to to V1 of Hyperapp
 
 * [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
 * [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.
+
+# V2
+
+These resources below only apply to V2 of Hyperapp.
+
+## Boilerplates V2
+
+* [bonniss/hyparcel](https://github.com/bonniss/hyparcel) - Hyperapp v2 + TailwindCSS + Parcel boilerplate, with PurgeCSS intergrated in production.
