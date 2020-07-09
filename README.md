@@ -1,9 +1,9 @@
-# <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg> Awesome Hyperapp
+# Hyperawesome
 
 > I'm preparing a new Awesome List as I get ready to release V2. Please stand by! :wave:
 
 
-A curated list of [Hyperapp](https://hyperapp.dev) resources.
+A curated list of awesome [Hyperapp](https://hyperapp.dev) resources.
 
 To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
 
