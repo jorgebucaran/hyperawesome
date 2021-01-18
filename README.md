@@ -38,6 +38,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [hyperapp-form](https://github.com/zaceno/hyperapp-form) - Eases the pain of validating & submitting forms
 * [hyperapp-styled-components](https://github.com/silentcicero/hyperapp-styled-components) - Component oriented CSS-in-JS system based on [styled-components](https://styled-components.com)
 * [hyperlit](https://github.com/zaceno/hyperlit) - JSX-like tagged template literals for Hyperapp
+* [hypermdx](https://github.com/talentlessguy/hypermdx) - Markdown enhanced with Hyperapp
 
 ## Examples
 
