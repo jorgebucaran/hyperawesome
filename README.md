@@ -22,7 +22,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp)
 * [Hyperapp Tutorial](https://github.com/jorgebucaran/hyperapp/blob/main/docs/tutorial.md)
-* [Hyperapp API Reference(https://github.com/jorgebucaran/hyperapp/blob/main/docs/reference.md)
+* [Hyperapp API Reference](https://github.com/jorgebucaran/hyperapp/blob/main/docs/reference.md)
 * [Hyperapp Community on Discord](https://discord.gg/5CtfCYEq8V)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
 * [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
@@ -32,7 +32,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [A Walk through Hyperapp 2](https://medium.com/hyperapp/a-walk-through-hyperapp-2-b1f642fca172)
 * [Hyperapp in Under 5 Minutes](https://medium.com/@NickDodson/hyperapp-v2-in-under-5-minutes-7e9fa49f7f5)
-* [Hyperapp Code-along](https://zaceno.github.io/codealong-hyperapp) – A videos series from "Hello World" to full TodoMVC, with some thoughts on dev setup and code structure mixed in.
+* [Hyperapp Code-along](https://zaceno.github.io/codealong-hyperapp) – A videos series from "Hello World" to full TodoMVC with some practical tips and ideas.
 
 ## Utilities
 
