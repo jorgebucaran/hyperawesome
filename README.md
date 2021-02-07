@@ -3,7 +3,7 @@
 > I'm preparing a new Awesome List as I get ready to release V2. Please stand by! :wave:
 
 
-A curated list of awesome [Hyperapp](https://hyperapp.dev) resources.
+A curated list of awesome [Hyperapp](https://github.com/jorgebucaran/hyperapp) resources.
 
 To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
 
@@ -11,26 +11,28 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [Official Resources](#official-resources)
 * [Articles & Tutorials](#articles--tutorials)
-* [Examples](#examples)
 * [Utilities](#utilities)
+* [Examples](#examples)
+* [Starters](#starters)
 * [V1 list](#v1)
 
 <!-- /TOC -->
 
 ## Official Resources
 
-* [Homepage](https://hyperapp.dev/)
-* [Tutorial](https://hyperapp.dev/tutorial)
 * [Hyperapp GitHub](https://github.com/jorgebucaran/hyperapp)
-* [Hyperapp Slack](https://hyperappjs.herokuapp.com/)
-* [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
+* [Hyperapp Tutorial](https://github.com/jorgebucaran/hyperapp/blob/main/docs/tutorial.md)
+* [Hyperapp API Reference(https://github.com/jorgebucaran/hyperapp/blob/main/docs/reference.md)
+* [Hyperapp Community on Discord](https://discord.gg/5CtfCYEq8V)
 * [Hyperapp Twitter](https://twitter.com/hyperappjs)
+* [Hyperapp Reddit](https://www.reddit.com/r/hyperapp/)
 
 
 ## Articles & Tutorials
 
 * [A Walk through Hyperapp 2](https://medium.com/hyperapp/a-walk-through-hyperapp-2-b1f642fca172)
 * [Hyperapp in Under 5 Minutes](https://medium.com/@NickDodson/hyperapp-v2-in-under-5-minutes-7e9fa49f7f5)
+* [Hyperapp Code-along](https://zaceno.github.io/codealong-hyperapp) – A videos series from "Hello World" to full TodoMVC, with some thoughts on dev setup and code structure mixed in.
 
 ## Utilities
 
@@ -44,6 +46,12 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [RealWorld with Hyperapp](https://github.com/kwasniew/hyperapp2-real-world-example)
 * [7GUIs with Hyperapp](https://github.com/zaceno/sevenguis-hyperapp)
+
+## Starters
+
+* [bonniss/hyparcel](https://github.com/bonniss/hyparcel) - Hyperapp v2 + TailwindCSS + Parcel boilerplate, with PurgeCSS intergrated in production.
+* [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Parcel, CSS modules, solid config
+
 
 ---
 
@@ -118,13 +126,3 @@ These resources below only apply to V1 of Hyperapp
 * [Deployable](https://github.com/lukejacksonn/deployable) - Ready-to-deploy static web app template built with Hyperapp.
 * [Linkcast](https://github.com/ajaxtown/linkcast) - A chrome extensions built with Hyperapp to share links in groups and socialize with offline capability.
 
----
-
-# V2
-
-These resources below only apply to V2 of Hyperapp.
-
-## Boilerplates V2
-
-* [bonniss/hyparcel](https://github.com/bonniss/hyparcel) - Hyperapp v2 + TailwindCSS + Parcel boilerplate, with PurgeCSS intergrated in production.
-* [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Parcel, CSS modules, solid config
