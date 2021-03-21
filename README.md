@@ -116,6 +116,7 @@ These resources below only apply to V1 of Hyperapp
 * [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps
 * [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form)
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript.
+* [congwenma/hyperapp-multiselect](https://github.com/congwenma/hyperapp-multiselect) - A multi select dropdown component with in hyperapp.
 
 ## Testing V1
 
