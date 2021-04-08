@@ -41,6 +41,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [hyperapp-styled-components](https://github.com/silentcicero/hyperapp-styled-components) - Component oriented CSS-in-JS system based on [styled-components](https://styled-components.com)
 * [hyperlit](https://github.com/zaceno/hyperlit) - JSX-like tagged template literals for Hyperapp
 * [hypermdx](https://github.com/talentlessguy/hypermdx) - Markdown enhanced with Hyperapp
+* [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript.
 
 ## Examples
 
@@ -115,7 +116,6 @@ These resources below only apply to V1 of Hyperapp
 * [picostyle/picostyle](https://github.com/picostyle/picostyle) - 0.3 KB CSS-in-JS library for use with Hyperapp & Picodom.
 * [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - wrapper for using Hyperapp within single-spa apps
 * [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - Form state management library (similiar to redux-form)
-* [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript.
 
 ## Testing V1
 
