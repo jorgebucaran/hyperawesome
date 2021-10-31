@@ -1,8 +1,5 @@
 # Hyperawesome
 
-> I'm preparing a new Awesome List as I get ready to release V2. Please stand by! :wave:
-
-
 A curated list of awesome [Hyperapp](https://github.com/jorgebucaran/hyperapp) resources.
 
 To contribute, fork this repository, add your amazing entry and send us a PR. See [CONTRIBUTING](/CONTRIBUTING.md) for more information.
