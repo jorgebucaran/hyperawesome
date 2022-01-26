@@ -32,6 +32,10 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [Hyperapp Code-along](https://zaceno.github.io/codealong-hyperapp) – A videos series from "Hello World" to full TodoMVC with some practical tips and ideas.
 * [Modular Hyperapp](https://dev.to/zaceno/modular-hyperapp-part-1-7f6) - A series on how to organize your codebase as it grows
 
+## Applications
+
+ * [mobtime](https://github.com/mobtimeapp/mobtime) - A real-time, collaborative mob/ensemble programming timer.
+
 ## Utilities
 
 * [hyperapp-router](https://github.com/mrozbarry/hyperapp-router) - A router for Hyperapp
