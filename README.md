@@ -45,6 +45,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [hyperlit](https://github.com/zaceno/hyperlit) - JSX-like tagged template literals for Hyperapp
 * [hypermdx](https://github.com/talentlessguy/hypermdx) - Markdown enhanced with Hyperapp
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript.
+* [tint](https://github.com/marcodpt/tint) - A browser-based template engine that compiles all template tags into hyperscript functions. It works with all frameworks that use hyperscript.
 
 ## Examples
 
