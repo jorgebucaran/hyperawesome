@@ -77,6 +77,10 @@ These resources below only apply to V1 of Hyperapp
 * [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（Simplified Chinese, [Source](https://github.com/willin/hyperapp.js.cool)）
 * [Creating a Snake Clone with Hyperapp](https://dev.to/avalander/create-a-snake-clone-with-hyperapp-part-1-2ffn)
 
+## Books
+
+* [hyperbook](https://github.com/kwasniew/hyperbook) - quick hyperapp tutorial with illustrations and an example
+
 ## Boilerplates V1
 
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
