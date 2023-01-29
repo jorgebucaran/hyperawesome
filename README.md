@@ -41,7 +41,6 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [hyperapp-router](https://github.com/mrozbarry/hyperapp-router) - A router for Hyperapp
 * [hyperapp-form](https://github.com/zaceno/hyperapp-form) - Eases the pain of validating & submitting forms
 * [hyperapp-styled-components](https://github.com/silentcicero/hyperapp-styled-components) - Component oriented CSS-in-JS system based on [styled-components](https://styled-components.com)
-* [hyperdev](https://github.com/alpacone/hyperdev) - Redux DevTools integration [DELETED]
 * [hyperlit](https://github.com/zaceno/hyperlit) - JSX-like tagged template literals for Hyperapp
 * [hypermdx](https://github.com/talentlessguy/hypermdx) - Markdown enhanced with Hyperapp
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript.
@@ -76,10 +75,6 @@ These resources below only apply to V1 of Hyperapp
 * [Hypercraft - A collection of Hyperapp techniques](https://zaceno.github.io/hypercraft/)
 * [《从0到1掌握HyperApp》](https://hyperapp.js.cool/)（Simplified Chinese, [Source](https://github.com/willin/hyperapp.js.cool)）
 * [Creating a Snake Clone with Hyperapp](https://dev.to/avalander/create-a-snake-clone-with-hyperapp-part-1-2ffn)
-
-## Books
-
-* [hyperbook](https://github.com/kwasniew/hyperbook) - quick hyperapp tutorial with illustrations and an example
 
 ## Boilerplates V1
 
