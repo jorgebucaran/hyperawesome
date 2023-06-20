@@ -56,6 +56,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [bonniss/hyparcel](https://github.com/bonniss/hyparcel) - Hyperapp v2 + TailwindCSS + Parcel boilerplate, with PurgeCSS intergrated in production.
 * [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Vite, CSS modules, JSX, TypeScript
+* [okwolf/create-hyperapp](https://github.com/okwolf/create-hyperapp) A wrapper around [`create-react-app`](https://create-react-app.dev) for quickly creating hyperapps supporting JSX, CSS Modules, testing with Jest, and HMR for refresh-free updates
 
 
 ---
