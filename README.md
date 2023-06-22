@@ -107,6 +107,7 @@ These resources below only apply to V1 of Hyperapp
 * [@hyperapp/logger](https://github.com/hyperapp/logger) - Logs state updates and action information to the console.
 * [@hyperapp/router](https://github.com/hyperapp/router) - The official router for Hyperapp.
 * [@hyperapp/render](https://github.com/hyperapp/render) - Render Hyperapp to an HTML string with SSR and Node.js streaming support.
+* [kriasoft/hyperapp-tools](https://github.com/kriasoft/hyperapp-tools) - Build automation tools for Hyperapp projects.
 * [andyrj/hyperapp-redux-devtools](https://github.com/andyrj/hyperapp-redux-devtools) - Enables use of redux-devtools-extension for Hyperapp.
 * [hyperstart/hyperapp-devtools](https://github.com/hyperstart/hyperapp-devtools) - Time-traveling debugger and other devtools for Hyperapp.
 * [zaceno/hyperapp-context](https://github.com/zaceno/hyperapp-context) - An remedy for excessive prop-passing down a deep tree of components
