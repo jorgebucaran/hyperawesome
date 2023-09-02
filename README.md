@@ -81,6 +81,7 @@ These resources below only apply to V1 of Hyperapp
 ## Boilerplates V1
 
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
+* [youngluo/hyperapp-boilerplate](https://github.com/youngluo/hyperapp-boilerplate) - A Hyperapp webpack4 boilerplate that shows how to create an application quickly.
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
 * [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp boilerplate counter app using parcel with Airbnb ESlint and JSX.
 * [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) - Minimal, progressive web app compliant template for Hyperapp projects.
