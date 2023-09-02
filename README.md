@@ -80,6 +80,7 @@ These resources below only apply to V1 of Hyperapp
 
 ## Boilerplates V1
 
+* [kriasoft/hyperapp-starter](https://github.com/kriasoft/hyperapp-starter) - Isomorphic boilerplate with no build configuration.
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) - Boilerplate showing how to create a production-ready Hyperapp application.
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - Minimal Electron app starter with Hyperapp, LiveReload and Redux DevTools.
 * [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - Simple Hyperapp boilerplate counter app using parcel with Airbnb ESlint and JSX.
