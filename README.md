@@ -45,6 +45,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [hypermdx](https://github.com/talentlessguy/hypermdx) - Markdown enhanced with Hyperapp
 * [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) - A wrapper for Hyperapp which enables you to use Pug templates rather than JSX or hyperscript.
 * [tint](https://github.com/marcodpt/tint) - A browser-based template engine that compiles all template tags into hyperscript functions. It works with all frameworks that use hyperscript.
+* [vite-plugin-hyperapp](https://github.com/zaceno/vite-plugin-hyperapp) - Develop and bundle Hyperapp apps with Vite. Supports JSX/TSX, HMR and SSR.
 * [HyperappWebComponent](https://github.com/kofifus/HyperappWebComponent) - Hyperapp support for Web Components
 
 ## Examples
@@ -57,6 +58,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [bonniss/hyparcel](https://github.com/bonniss/hyparcel) - Hyperapp v2 + TailwindCSS + Parcel boilerplate, with PurgeCSS intergrated in production.
 * [loteoo/hyperapp-starter](https://github.com/loteoo/hyperapp-starter) Clean PWA starter with strong focus on developer experience - Vite, CSS modules, JSX, TypeScript
 * [okwolf/create-hyperapp](https://github.com/okwolf/create-hyperapp) A wrapper around [`create-react-app`](https://create-react-app.dev) for quickly creating hyperapps supporting JSX, CSS Modules, testing with Jest, and HMR for refresh-free updates
+* [zaceno/create-vite-hyperapp](https://github.com/zaceno/create-vite-hyperapp) - Scaffold a Hyperapp project with Vite, and optionally Typescript/TSK, SSR.
 
 
 ---
