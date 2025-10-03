@@ -51,6 +51,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 
 * [RealWorld with Hyperapp](https://github.com/kwasniew/hyperapp2-real-world-example)
 * [7GUIs with Hyperapp](https://github.com/zaceno/sevenguis-hyperapp)
+* [TodoMVC with Hyperapp](https://github.com/zaceno/todomvc-hyperapp) – no-build, type-safe, spec-compliant implementation of TodoMVC
 
 ## Starters
 
