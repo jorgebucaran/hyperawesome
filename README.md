@@ -30,7 +30,7 @@ To contribute, fork this repository, add your amazing entry and send us a PR. Se
 * [A Walk through Hyperapp 2](https://medium.com/hyperapp/a-walk-through-hyperapp-2-b1f642fca172)
 * [Hyperapp in Under 5 Minutes](https://medium.com/@NickDodson/hyperapp-v2-in-under-5-minutes-7e9fa49f7f5)
 * [Hyperapp Code-along](https://zaceno.github.io/codealong-hyperapp) – A videos series from "Hello World" to full TodoMVC with some practical tips and ideas.
-* [Modular Hyperapp](https://dev.to/zaceno/modular-hyperapp-part-1-7f6) - A series on how to organize your codebase as it grows
+* [Modular Hyperapp](https://dev.to/zaceno/a-fresh-take-on-modular-hyperapp-4njm) - Ideas for domain separation and modular reuse in your apps.
 
 ## Applications
 
